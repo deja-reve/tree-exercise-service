@@ -1,0 +1,70 @@
+{
+  "1": {
+    "label": "root",
+    "parent": null,
+    "children": [
+      "2",
+      "3",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  "2": {
+    "label": "ant",
+    "parent": "1",
+    "children": []
+  },
+  "3": {
+    "label": "bear",
+    "parent": "1",
+    "children": [
+      "4",
+      "5"
+    ]
+  },
+  "4": {
+    "label": "cat",
+    "parent": "3",
+    "children": []
+  },
+  "5": {
+    "label": "dog",
+    "parent": "3",
+    "children": [
+      "6"
+    ]
+  },
+  "6": {
+    "label": "elephant",
+    "parent": "5",
+    "children": []
+  },
+  "7": {
+    "label": "frog",
+    "parent": "1",
+    "children": []
+  },
+  "8": {
+    "label": "bird",
+    "parent": "1",
+    "children": []
+  },
+  "9": {
+    "label": "bird",
+    "parent": "1",
+    "children": []
+  },
+  "10": {
+    "label": "bird",
+    "parent": "1",
+    "children": []
+  },
+  "11": {
+    "label": "new node",
+    "parent": "1",
+    "children": []
+  }
+}
